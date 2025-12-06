@@ -41,7 +41,7 @@ Python turns JSON into:
 
 ## 2. **`requests`** (recommended)
 
-* must install with `pip`
+* must install with `pip3`
 
 
 For teaching, `urllib.request` is useful because it requires no installation on a clean system.

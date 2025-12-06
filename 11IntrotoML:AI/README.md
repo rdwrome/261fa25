@@ -49,8 +49,8 @@
 
 ## **'Generative AI'** (capitalist branding of Machine Learning)
 ##### Large Language Models 
-- chatGPT (openAI...Microsoft), llama (META), Gemini (Google)
-##### izotope, logic, others?
+- chatGPT (openAI...Microsoft), llama (META), Gemini (Google), Claude
+##### izotope, logic, suno, others?
 
 ## Embodiment
 
